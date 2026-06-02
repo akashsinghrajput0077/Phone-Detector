@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc==0.47.1
+opencv-python-headless
+ultralytics
+av
+aioice
+aiortc
